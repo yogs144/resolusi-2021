@@ -2,3 +2,4 @@ resolusi 2021
 - membuat website sendiri 
 - belajar tentang illustrasi
 - membuat aplikasi sendiri 
+- memulai project
